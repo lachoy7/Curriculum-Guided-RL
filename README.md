@@ -1,6 +1,6 @@
 # RL Finetuning from Scratch
 
-Class project for **Deep Reinforcement Learning**, Spring 2025.
+Class project for Stanford CS 224R, **Deep Reinforcement Learning**, Spring 2025.
 
 Fine-tune **Qwen2.5-0.5B** through supervised fine-tuning (SFT), direct preference optimization (DPO), and [SCoRe](https://arxiv.org/abs/2409.12917)-style self-correction curriculum learning. This repo implements the full pipeline from initial response generation through training and reward-model evaluation.
 
