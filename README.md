@@ -1,4 +1,4 @@
-# RL Finetuning from Scratch
+# Curriculum-Guided Reinforcement Learning with Self-Revision
 
 Class project for Stanford CS 224R, **Deep Reinforcement Learning**, Spring 2025.
 
